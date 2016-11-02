@@ -1,10 +1,10 @@
 <a href="telegram.me/CleverGuy"><h1>CleverGuy</h1></a>
-<h2>keykyazdi umbrella team :D</h2><br><br><br>
+<h2>server manager umbrella team :D</h2><br><br><br>
 <h1><mark>نصب ربات</mark></h1>
 <pre>
 توکن,ایدی,ایدی گروه در فایل کانفیگ وارد شود
 
-git clone https://github.com/TeleCleverGuy/keykyazdi.git
+git clone https://github.com/TeleCleverGuy/ServerManager.git
 
 بسته های زیر نصب شوند
 
