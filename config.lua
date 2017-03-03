@@ -1,4 +1,4 @@
-bot_token = "248333195:AAHVaFKVihv0jrA2OHR9FqC3J_ZbfFkcNCE"
+bot_token = "362176057:AAHhNhzqs7JqNWQO8q4UimwBkoriLR2HK40"
 send_api = "https://api.telegram.org/bot"..bot_token
 bot_version = "1.7"
 sudo_name = "Mizbanivps.com"
