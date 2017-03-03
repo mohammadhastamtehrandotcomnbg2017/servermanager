@@ -103,12 +103,12 @@ o  -آي پي سرور`
 *Change Server*
 `شما ميتوانيد از سرور جاري خارج شويد و در هر سرور ديکري لاگين کنيد...`]]
 	keyboard = {{"File Manager"},{"User Manager","Terminal Keys"},{"Server Info","Change Server"},{"Recharge","Help","About"}}
-	about_key = {{{text = "Website" , url = "http://Umbrella.shayan-soft.ir"}},{{text = "Channel" , url = "https://telegram.me/UmbrellaTeam"}},{{text = "Robot" , url = "https://telegram.me/UmbreIIaBot"}},{{text = "Instagram" , url = "https://instagram.com/UmbrellaTeam"}},{{text = "Messanger Bot" , url = "https://telegram.me/shayansoftBot"}},{{text = "Admin" , url = "https://telegram.me/shayan_soft"}}}
-	about_txt = "*Server Manager Robot*\n\n   _- File manager_\n   _- SSH Terminal_\n   _- Download File_\n   _- Upload File_\n   _- Hot Keys_\n   _- & More..._\n\n`Made in Umbrella Team and Powered by shayan soft Co. Group`\nProgrammer and Idea:\n[Engineer Shayan Ahmadi](https://instagram.com/shayan_soft)\nScripter: [Parsa Daneshvar](https://telegram.me/pfs0ciety)\nDesigner: [Mohammad Molla Ghasemi](https://telegram.me/wqwq2112)"
+	about_key = {{{text = "Website" , url = "https://mizbanivps.com"}},{{text = "Channel" , url = "https://telegram.me/mizbanivps"}},{{text = "Robot" , url = "https://telegram.me/mizbanivpsbot"}}}
+	about_txt = "*Server Manager Robot*\n\n   _- File manager_\n   _- SSH Terminal_\n   _- Download File_\n   _- Upload File_\n   _- Hot Keys_\n   _- & More..._\n\n`Made in Umbrella Team and Powered by shayan soft Co. Group`\nProgrammer and Idea:\n[mizbanivps.com](https://instagram.com/mizbanivps)"
 	start_key = {{"Login Server"},{"Recharge","Help","About"}}
 	start_txt = "*Welcome to "..bot.first_name.."*\n`This robot is Free for 1Month!\nIn this robot you can Download and Upload file to Server or VPS, control SSH Terminal, Manage and see files and more...\n\n`".."`به ربات `"..bot.first_name.."` خوش آمدید\nاین ربات برای یک ماه رایگان است!\nدر این ربات شما قادر به ارسال و دریافت فایل به وی پی اس یا سرور هستید همچنین میتوانید ترمینال را کنترل کنید، فایلها را ببینید و مدیریت کنید و...`"
-	charge_key = {{{text = "Admin Contact" , url = "https://telegram.me/shayan_soft"}},{{text = "If you'r Report, Click here" , url = "https://telegram.me/shayansoftBot"}}}
-	charge_txt ="Account per month is *"..nerkh.."Dollar*, tell to we for recharge\n`قیمت اکانت این ربات، ماهیانه `*"..nerkh.."0,000Rial*` میباشد، برای شارژ با ما تماس بگیرید`\n\nNumber: (+98) 935 1372038"
+	charge_key = {{{text = "Admin Contact" , url = "https://telegram.me/mizbanivpsbot"}},{{text = "If you'r Report, Click here" , url = "https://telegram.me/mizbanivps"}}}
+	charge_txt ="Account per month is *"..nerkh.."Dollar*, tell to we for recharge\n`قیمت اکانت این ربات، ماهیانه `*"..nerkh.."0,000Rial*` میباشد، برای شارژ با ما تماس بگیرید`\n"
 	hotkey = {{"Main Menu"},{"Screen Launch","Curl URL","Wget URL"},{"Uptime","*REBOOT*","Users Info"},{"CPU Info","RAM Info","OS Info"},{"Server IP","Date","Calendar"}}
 	------------------------------------------------------------------------------------
 	blocks = load_data("../blocks.json")
